@@ -8,6 +8,6 @@ Building off our previous robot, airplane-1, we aim to be capable of:
 - Vincent Fleetwood
 - Dan Harrison
 
-##Coming Soon:
+## Coming Soon:
 - airplane-1 files
 - airplane-1 photos and results
